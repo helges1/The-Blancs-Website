@@ -2,6 +2,8 @@
 
 > Dette er for øyeblikket testet kun på en Intel bassert Mac. Det kan dermed være at det ikke fungerer på macer som benytter Apple Silicon.
 
+> Programmet krever Java Runtime Environment (JRE) for å kjøre. Hvis du ikke har JRE installert kan du laste ned det fra [java.com](https://www.java.com/).
+
 1. Last ned TheBlancsGame.dmg [ved å klikke på denne linken.](https://github.com/helges1/The-Blancs/raw/main/TheBlancsGame.dmg)
 
 2. Når filen er lastet ned i nettleseren, klikk på den for å åpne programmet.
@@ -25,6 +27,7 @@
 <img src="../MacOS/assets/mac-6.png" alt="Spillet er klart til å spilles" width="400"/>
 
 ## Valgfritt: Legg til spillet i applikasjonsmappen
+
 Ved å dra spillet til applikasjonsmappen vil du enkelt kunne starte spillet fra Launchpad når du ønsker å spille.
 
 9. Dra spillet til applikasjonsmappen.

@@ -1,5 +1,7 @@
 # Last ned The Blancs Game på Windows
 
+> Programmet krever Java Runtime Environment (JRE) for å kjøre. Hvis du ikke har JRE installert kan du laste ned det fra [java.com](https://www.java.com/).
+
 1. Last ned TheBlancs.exe [ved å klikke på denne linken.](https://github.com/helges1/The-Blancs/raw/main/TheBlancs.exe)
 
 2. Når filen er lastet ned i nettleseren, klikk på den for å åpne programmet.
